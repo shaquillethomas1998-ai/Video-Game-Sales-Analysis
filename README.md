@@ -26,7 +26,7 @@ The original Excel file contains **546 records**, with fields for rank, game nam
 
 The original file is preserved separately from the analysis workbook so readers can compare the starting data with the prepared version.
 
-[View the original dataset](<vgsales_1 (original datset).xlsx>)
+[View the original dataset](<vgsales_1 (original dataset).xlsx>)
 
 ![Original Excel dataset](<Walkthrough Screenshots/original dataset.png>)
 
@@ -167,10 +167,10 @@ These findings describe the dataset's coverage and should not be generalized to 
 
 | File or folder | Purpose |
 |---|---|
-| [Original dataset](<vgsales_1 (original datset).xlsx>) | Inspect the supplied data before preparation |
+| [Original dataset](<vgsales_1 (original dataset).xlsx>) | Inspect the supplied data before preparation |
 | [Excel analysis](<Video Game Sales.xlsx>) | Review the prepared data, PivotTables, and charts |
 | [Tableau workbook](<Video Game Sales Analysis.twbx>) | Open the worksheets and interactive dashboard |
-| [PDF report](<Excel and Tableua Game Sales Analysis.pdf>) | Read the written analysis |
+| [PDF report](<Excel and Tableau Game Sales Analysis.pdf>) | Read the written analysis |
 | [Walkthrough screenshots](<Walkthrough Screenshots/>) | Follow the preparation and visualization steps |
 
 ### Opening the Files
